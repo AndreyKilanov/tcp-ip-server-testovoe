@@ -1,0 +1,8 @@
+# server settings
+SERVER_HOST = '127.0.0.1'
+SERVER_PORT = 8888
+# client settings
+NUM_CLIENTS = 10
+COUNT_MESSAGES = 5
+DELAY_BEFORE_SEND = 5
+DELAY_AFTER_SEND = 10
